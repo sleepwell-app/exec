@@ -1,6 +1,6 @@
 # SleepWell — Build Log
 
-This folder documents the incremental implementation of SleepWell, an uptime monitoring SaaS. Each file records a discrete build step: what was created or changed, which files were touched, and any decisions made along the way.
+This folder documents the incremental implementation of [SleepWell](https://sleepwell.dev), an uptime monitoring SaaS. Each file records a discrete build step: what was created or changed, which files were touched, and any decisions made along the way.
 
 ---
 
